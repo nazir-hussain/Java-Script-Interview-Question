@@ -6,7 +6,7 @@ Go to [Coding Exercise](#coding-exercise) for coding specific questions
 
 ## Download PDF/Epub formats
 
-You can download the PDF and Epub version of this repository from the latest run on the [actions tab](https://github.com/sudheerj/JavaScript-Interview-Questions/actions).
+You can download the PDF and Epub version of this repository from the latest run on the [actions tab](https://github.com/nazir-hussain/JavaScript-Interview-Questions/actions).
 
 ---
 <p align="center">
