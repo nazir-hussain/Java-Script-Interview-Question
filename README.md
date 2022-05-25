@@ -9,7 +9,7 @@ Go to [Coding Exercise](#coding-exercise) for coding specific questions
 You can download the PDF and Epub version of this repository from the latest run on the [actions tab](https://github.com/nazir-hussain/JavaScript-Interview-Questions/actions).
 
 ---
-<p align="center">
+<!-- <p align="center">
   <a href=https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=javascript-interview-questions>
     <img src=https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:70/https://www.filepicker.io/api/file/AKYtjj5SSGyJuyZrkAB2 alt="ZTM Logo">
   </a>
@@ -20,7 +20,7 @@ You can download the PDF and Epub version of this repository from the latest run
     <li>Take this <a href=https://links.zerotomastery.io/ajs_sudheer>Advanced JavaScript Course</a> to learn advanced JS concepts and become a top JS developer</li>
     </ol>
   </p>
-</p>
+</p> -->
 
 ---
 
